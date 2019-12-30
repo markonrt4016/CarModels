@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&subset=latin-ext');
+
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.icon {
+  font-size: 20px !important;
+  transition: .2s ease-in !important;
+}
+
+.icon:hover {
+  color: #141414 !important;
+}
+
+.footer-links {
+  transition: .2s ease-in-out;
+}
+
+.footer-links:hover {
+  color:#141414 !important;
+}
+
+.popularne_marke{
+  width: 50%;
+  height: 50%;
+}
